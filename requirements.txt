@@ -4,6 +4,6 @@ pandas
 numpy
 matplotlib
 seaborn
-opencv-python
+opencv-python-headless
 joblib
 Pillow
