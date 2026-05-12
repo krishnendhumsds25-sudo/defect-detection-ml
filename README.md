@@ -130,7 +130,7 @@ The model is deployed using **Streamlit**, allowing users to:
 * Upload an image
 * Automatically extract features
 * Predict defect type in real-time
- Streamlit: https://defect-detection-ml-vhi9bphk8zxpscrfrh5gte.streamlit.app/
+* Streamlit: https://defect-detection-ml-vhi9bphk8zxpscrfrh5gte.streamlit.app/
 ---
 
 ## 📸 Outputs
