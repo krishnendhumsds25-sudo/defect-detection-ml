@@ -72,7 +72,6 @@ An automated system ensures:
 ### 🔹 Data Preprocessing
 
 * Image resizing (64×64)
-* Normalization
 * Flattening
 
 ### 🔹 Feature Engineering
