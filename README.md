@@ -41,7 +41,6 @@ An automated system ensures:
 ## 🤖 Why Automation is Needed
 
 * High-speed inspection
-* Improved accuracy
 * Reduced labor cost
 * Real-time defect detection
 * Better decision-making
