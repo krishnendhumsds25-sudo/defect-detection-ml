@@ -20,6 +20,7 @@ This project develops an automated defect detection system that classifies surfa
 * Patches
 * Pitted Surface
 * Rolled-in Scale
+* Scratches
   
 
 ---
