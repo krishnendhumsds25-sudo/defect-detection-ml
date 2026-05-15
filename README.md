@@ -16,7 +16,8 @@
 | Member | Role |
 |--------|--------|
 | Archana T | Completed Exploratory Data Analysis (EDA) to understand the dataset, identify patterns, and prepare data for model development. Generated and organized project outputs and contributed to creating the project presentation (PPT). Also assisted in updating and improving the `README.md` file with project details and documentation.|
- 
+
+| Gokul A R |
 
 
 ---
