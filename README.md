@@ -8,16 +8,10 @@
 | Name | Reg No | Course |
 | --- | --- | --- |
 | Archana T | 253205 | MSc. DATA SCIENCE AND BIO AI |
-| Gokul A R | | |
-| Krishnendhu M S | | |
+| Gokul A R |  | |
+| Krishnendhu M S | 253118 | MSc. Data Analytics & Computational Science|
 
-## 👥 Team
 
-| Member | Role |
-|--------|--------|
-| Archana T | Contributed to the project by performing comprehensive Exploratory Data Analysis (EDA) to better understand the dataset, identify meaningful patterns, analyze sentiment distributions, and support data preparation for model development. Generated, organized, and documented project outputs including visualizations, result files, and analysis reports for model evaluation and presentation purposes. Also contributed to designing and preparing the project presentation (PPT) to effectively communicate project workflow, methodology, results, and key findings. Assisted in updating and improving the `README.md` file with detailed project descriptions, setup instructions, workflow explanations, and documentation to enhance project clarity and collaboration.|
-| Gokul A R | |
-| Krishnendhu M S| |
 
 
 ---
