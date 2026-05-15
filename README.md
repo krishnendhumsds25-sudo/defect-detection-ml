@@ -9,7 +9,7 @@
 | --- | --- |
 | Archana T | 253205 |
 | Gokul A R | |
-| Krishnendhu M S | 253205 |
+| Krishnendhu M S | |
 
 ## 👥 Team
 
