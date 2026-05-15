@@ -8,7 +8,7 @@
 | Name | Reg No | Course |
 | --- | --- | --- |
 | Archana T | 253205 | MSc. DATA SCIENCE AND BIO AI |
-| Gokul A R |  | MSc. Data Analytics & Computational Science |
+| Gokul A R | 253112 | MSc. Data Analytics & Computational Science |
 | Krishnendhu M S | 253118 | MSc. Data Analytics & Computational Science|
 
 
