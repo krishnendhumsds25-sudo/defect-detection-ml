@@ -8,7 +8,7 @@
 | Name | Reg No |
 | --- | --- |
 | Archana T | 253205 |
-| Gokul A R | 253212 |
+| Gokul A R | |
 | Krishnendhu M S | 253205 |
 
 ## 👥 Team
