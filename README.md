@@ -15,7 +15,7 @@
 
 | Member | Role |
 |--------|--------|
-| Archana T | Completed Exploratory Data Analysis (EDA) to understand the dataset, identify patterns, and prepare data for model development. Generated and organized project outputs and contributed to creating the project presentation (PPT). Also assisted in updating and improving the `README.md` file with project details and documentation.|
+| Archana T | Contributed to the project by performing comprehensive Exploratory Data Analysis (EDA) to better understand the dataset, identify meaningful patterns, analyze sentiment distributions, and support data preparation for model development. Generated, organized, and documented project outputs including visualizations, result files, and analysis reports for model evaluation and presentation purposes. Also contributed to designing and preparing the project presentation (PPT) to effectively communicate project workflow, methodology, results, and key findings. Assisted in updating and improving the `README.md` file with detailed project descriptions, setup instructions, workflow explanations, and documentation to enhance project clarity and collaboration.|
 | Gokul A R | |
 | Krishnendhu M S| |
 
