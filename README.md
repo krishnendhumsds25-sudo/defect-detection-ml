@@ -3,6 +3,23 @@
 
 ---
 
+## Team Members
+
+| Name | Reg No |
+| --- | --- |
+| Archana T | 253205 |
+| Gokul A R | 253212 |
+| Krishnendhu M S | 253205 |
+
+## 👥 Team
+
+| Member | Role |
+|--------|--------|
+| Archana T | |
+
+
+---
+
 ## 📌 Project Overview
 
 This project focuses on building a machine learning-based system to automatically detect surface defects in manufacturing images. The aim is to enhance quality control by reducing manual inspection and improving accuracy.
