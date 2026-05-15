@@ -15,7 +15,8 @@
 
 | Member | Role |
 |--------|--------|
-| Archana T | |
+| Archana T | Completed Exploratory Data Analysis (EDA) to understand the dataset, identify patterns, and prepare data for model development. |
+ 
 
 
 ---
