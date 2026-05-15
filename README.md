@@ -5,11 +5,11 @@
 
 ## Team Members
 
-| Name | Reg No |
-| --- | --- |
+| Name | Reg No | Course |
+| --- | --- | --- |
 | Archana T | 253205 |
-| Gokul A R | |
-| Krishnendhu M S | |
+| Gokul A R | | |
+| Krishnendhu M S | | |
 
 ## 👥 Team
 
