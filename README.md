@@ -182,7 +182,7 @@ The model is deployed using **Streamlit**, allowing users to:
 ### 1. Clone Repository
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/gokulaards25-lab/defect-detection-ml.git
 cd defect_detection
 ```
 
@@ -222,7 +222,7 @@ defect_detection/
 
 ## 📊 Results
 
-* Random Forest achieved the highest accuracy (~92%)
+* Random Forest achieved the highest accuracy (~78%)
 * SVM performed well with slightly lower accuracy
 * Decision Tree showed signs of overfitting
 * Logistic Regression performed moderately
