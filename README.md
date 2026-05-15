@@ -7,7 +7,7 @@
 
 | Name | Reg No | Course |
 | --- | --- | --- |
-| Archana T | 253205 |
+| Archana T | 253205 | MSc. DATA SCIENCE AND BIO AI |
 | Gokul A R | | |
 | Krishnendhu M S | | |
 
